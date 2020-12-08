@@ -167,15 +167,5 @@
         "descriptionProduct": "Pintado y limpieza de uñas",
         "price": "?$",
         "txtBtn": "Cotizar"
-    },
-    {
-        "section": "fas fa-business-time",
-        "image": "https://publicarros.com/uploaded_"image"s/CA83936750EN83685244.jpg",
-        "tagIcon": "fas fa-tag",
-        "tagDescription": "Automotores",
-        "title": "2010 Volkswagen Bora",
-        "descriptionProduct": "Se vende carro usado modelo 2010 en excelentes condiciones.",
-        "price": "25.000.000$",
-        "txtBtn": "Cotizar"
     }
 ]}

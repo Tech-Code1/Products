@@ -287,22 +287,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-store-alt",
-            "image": "https://frigocarnes.co/wp-content/uploads/2018/12/FRIGOCARNES_SOLOMO-REDONDO.jpg",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Cárnicos",
-            "title": "Solomo",
-            "descriptionProduct": "El Solomo o Lomo ancho está ubicado en el cuarto anterior del bovino, en la región dorsal y lumbar, es un corte blando con forma rectangular gruesa.",
-            "price": "7.900$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Agregar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }

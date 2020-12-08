@@ -255,22 +255,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-store-alt",
-            "image": "https://tiendatellevo.com/wp-content/uploads/2020/07/aguila-litro.jpg",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Estanquillo",
-            "title": "CERVEZA AGUILA 1000ml",
-            "descriptionProduct": "Águila Original, cerveza lager clásica, sabrosa y refrescante que ha sido disfrutada durante más de un siglo.",
-            "price": "5.000$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Agregar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }

@@ -127,25 +127,5 @@
         "backgroundBody": "#FFEADF",
         "backgroundFooter": "#FF7F40",
         "backgroundButton": "#802A00"
-    },
-    {
-        "section": "fas fa-hamburger",
-        "image": "https://jumboargentina.vteximg.com.br/arquivos/ids/593112-750-750/Helado-Sei-T-Palito-Bomb-n-390-Gr-1-36120.jpg?v=637303801182000000",
-        "tagIcon": "fas fa-tag",
-        "tagDescription": "Helados",
-        "title": "Helado Sei Tú Palito Bombón",
-        "descriptionProduct": "Helado Sei Tú Palito Bombón 390 Gr",
-        "price": "5.850$",
-        "txtBtn": "Agregar"
-    },
-    {
-        "section": "fas fa-hamburger",
-        "image": "https://www.laestacionbistro.com/wp-content/uploads/2018/05/21022009074-768x576.jpg",
-        "tagIcon": "fas fa-tag",
-        "tagDescription": "Charcuteria",
-        "title": "TABLA DE QUESOS Y FIAMBRES",
-        "descriptionProduct": "Una selección de nuestros quesos y embutidos, ideal para compartir y acompañar con un vino.",
-        "price": "48.600$",
-        "txtBtn": "Agregar"
     }
 ]}

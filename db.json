@@ -175,6 +175,38 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
+        },
+        {
+            "companyLogo": "fas fa-building",
+            "companyName": "Nombre de la empresa",
+            "section": "fas fa-business-time",
+            "image": "https://www.merca2.es/wp-content/uploads/2020/03/coronaviruso-no-pintar-u%C3%B1as-1280x720-1.jpg",
+            "tagIcon": "fas fa-tag",
+            "tagDescription": "Salud y belleza",
+            "title": "Servicio de Manicure y Pedicure",
+            "descriptionProduct": "Pintado y limpieza de uñas",
+            "price": "?$",
+            "likeIcon": "far fa-heart",
+            "txtBtn": "Cotizar",
+            "backgroundBody": "#FFEADF",
+            "backgroundFooter": "#FF7F40",
+            "backgroundButton": "#802A00"
+        },
+        {
+            "companyLogo": "fas fa-building",
+            "companyName": "Nombre de la empresa",
+            "section": "fas fa-business-time",
+            "image": "https://miro.medium.com/max/4240/1*MzvV0eNgN_diBSnd3EGMYw.jpeg",
+            "tagIcon": "fas fa-tag",
+            "tagDescription": "Automotores",
+            "title": "2010 Volkswagen Bora",
+            "descriptionProduct": "Se vende carro usado modelo 2010 en excelentes condiciones.",
+            "price": "25.000.000$",
+            "txtBtn": "Cotizar",
+            "likeIcon": "far fa-heart",
+            "backgroundBody": "#FFEADF",
+            "backgroundFooter": "#FF7F40",
+            "backgroundButton": "#802A00"
         }
     ]
 }

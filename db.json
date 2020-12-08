@@ -127,5 +127,21 @@
         "backgroundBody": "#FFEADF",
         "backgroundFooter": "#FF7F40",
         "backgroundButton": "#802A00"
+    },
+        {
+        "companyLogo": "fas fa-building",
+        "companyName": "Nombre de la empresa",
+        "section": "fas fa-hamburger",
+        "image": "https://jumboargentina.vteximg.com.br/arquivos/ids/593112-750-750/Helado-Sei-T-Palito-Bomb-n-390-Gr-1-36120.jpg?v=637303801182000000",
+        "tagIcon": "fas fa-tag",
+        "tagDescription": "Helados",
+        "title": "Helado Sei Tú Palito Bombón",
+        "descriptionProduct": "Helado Sei Tú Palito Bombón 390 Gr",
+        "price": "5.850$",
+        "likeIcon": "far fa-heart",
+        "txtBtn": "Agregar",
+        "backgroundBody": "#FFEADF",
+        "backgroundFooter": "#FF7F40",
+        "backgroundButton": "#802A00"
     }
 ]}

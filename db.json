@@ -223,22 +223,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-business-time",
-            "image": "https://www.emedicalbox.com/wp-content/uploads/2019/10/tramitador-procesal-articulo-710x418.jpg",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Recados",
-            "title": "Tramitador",
-            "descriptionProduct": "se realizan tramites de cualquier tipo.",
-            "price": "?$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Cotizar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }

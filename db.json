@@ -271,22 +271,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-store-alt",
-            "image": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/migrated/elegir-sandia.jpg",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Fruver",
-            "title": "Sandia",
-            "descriptionProduct": "Sandia fresca, ideal para los dias calurosos",
-            "price": "1,200$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Agregar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }

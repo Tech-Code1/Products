@@ -147,25 +147,5 @@
         "descriptionProduct": "Una selección de nuestros quesos y embutidos, ideal para compartir y acompañar con un vino.",
         "price": "48.600$",
         "txtBtn": "Agregar"
-    },
-    {
-        "section": "fas fa-business-time",
-        "image": "https://www.computronixco.com/wp-content/uploads/2020/02/mantenimiento-de-computadores-cali-reparacion-computadores-06.jpg",
-        "tagIcon": "fas fa-tag",
-        "tagDescription": "Mantenimiento",
-        "title": "Reparación de computadores",
-        "descriptionProduct": "Se reparan computadores en todo el area metropolitana de Medellín.",
-        "price": "?$",
-        "txtBtn": "Cotizar"
-    },
-    {
-        "section": "fas fa-business-time",
-        "image": "https://www.merca2.es/wp-content/uploads/2020/03/coronaviruso-no-pintar-u%C3%B1as-1280x720-1.jpg",
-        "tagIcon": "fas fa-tag",
-        "tagDescription": "Salud y belleza",
-        "title": "Servicio de Manicure y Pedicure",
-        "descriptionProduct": "Pintado y limpieza de uñas",
-        "price": "?$",
-        "txtBtn": "Cotizar"
     }
 ]}

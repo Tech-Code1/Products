@@ -239,22 +239,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-store-alt",
-            "image": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3484423-750-750/7702189054036.jpg?v=637175561956630000",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Abarrotes",
-            "title": "De Todito (Natural)",
-            "descriptionProduct": "Pasabocas de todito natural x150g",
-            "price": "4,390$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Agregar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }

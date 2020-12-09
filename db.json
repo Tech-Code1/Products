@@ -191,38 +191,6 @@
             "backgroundBody": "#FFEADF",
             "backgroundFooter": "#FF7F40",
             "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-business-time",
-            "image": "https://miro.medium.com/max/4240/1*MzvV0eNgN_diBSnd3EGMYw.jpeg",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Automotores",
-            "title": "2010 Volkswagen Bora",
-            "descriptionProduct": "Se vende carro usado modelo 2010 en excelentes condiciones.",
-            "price": "25.000.000$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Cotizar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
-        },
-        {
-            "companyLogo": "fas fa-building",
-            "companyName": "Nombre de la empresa",
-            "section": "fas fa-business-time",
-            "image": "https://i.linio.com/p/9c528615868cbeece4bc93213c0eb6a7-product.webp",
-            "tagIcon": "fas fa-tag",
-            "tagDescription": "Entretenimiento",
-            "title": "Uncharted 4 Ps4 Fisico",
-            "descriptionProduct": "Nuevo juego Uncharted 4 para Ps4, original.",
-            "price": "79.900$",
-            "likeIcon": "far fa-heart",
-            "txtBtn": "Cotizar",
-            "backgroundBody": "#FFEADF",
-            "backgroundFooter": "#FF7F40",
-            "backgroundButton": "#802A00"
         }
     ]
 }
